@@ -1,1 +1,2 @@
-fasttext-wheel
+fasttext
+gdown
